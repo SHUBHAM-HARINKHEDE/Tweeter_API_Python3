@@ -1,5 +1,5 @@
 # twitter_API_Python3
-This a live sentiment analysis application build using Python3 and twitter api.
+This is a live sentiment analysis application build using Python3 and twitter api.
 
 ## 1.twitter_credentials.py 
 ```
